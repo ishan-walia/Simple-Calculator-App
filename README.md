@@ -30,6 +30,12 @@ A feature-rich calculator application written in Kotlin. Includes:
 - 🧠 AI Smart calculator (explain steps)  
 - 📱 iOS version
 
+## 🔐 App Permissions
+
+| Permission | Reason |
+|-----------|--------|
+| Internet | Firebase sync |
+| Storage | Save history |
 
 ## Technologies and Languages Used
 - **Frontend:** Kotlin (Android UI)
