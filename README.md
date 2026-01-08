@@ -22,6 +22,15 @@ A feature-rich calculator application written in Kotlin. Includes:
 - ✅ Unit conversion capabilities
 - ✅ CGPA calculation feature
 
+## 🚧 Upcoming Features
+
+- 📊 Graph plotting calculator  
+- 🧮 Voice input calculator  
+- ☁️ Cloud sync for history  
+- 🧠 AI Smart calculator (explain steps)  
+- 📱 iOS version
+
+
 ## Technologies and Languages Used
 - **Frontend:** Kotlin (Android UI)
 - **Backend (if applicable):** Firebase (for saving calculations)
