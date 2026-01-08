@@ -93,6 +93,13 @@ app/
 - Toggle **Dark Mode** from settings if needed
 - Access additional features through the menu
 
+## 👨‍💻 Developer
+
+**Ishan Walia**  
+📍 Mandi, Himachal Pradesh  
+🔗 GitHub: https://github.com/ishanwalia7579  
+🔗 LinkedIn: https://www.linkedin.com/in/ishanwalia/
+
 ## Project Link
 https://github.com/ishanwalia7579/Simple-Calculator-App
 
