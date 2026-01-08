@@ -36,6 +36,13 @@ A feature-rich calculator application written in Kotlin. Includes:
 3. Sync the Gradle files and install dependencies
 4. Run the app on an emulator or physical device
 
+## 📸 App Screenshots
+
+| Light Mode | Dark Mode | Scientific |
+|-----------|----------|------------|
+| ![](screenshots/light.png) | ![](screenshots/dark.png) | ![](screenshots/scientific.png) |
+
+
 ## Usage
 - Open the app and enter numbers using the keypad
 - Choose an operation ( +, -, ×, ÷ )
