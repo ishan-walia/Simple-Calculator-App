@@ -105,3 +105,8 @@ https://github.com/ishanwalia7579/Simple-Calculator-App
 
 ## License
 This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
+
+## ⭐ Support
+
+If you like this project, please ⭐ star the repository  
+and share it with your friends.
