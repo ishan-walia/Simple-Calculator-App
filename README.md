@@ -41,6 +41,18 @@ A feature-rich calculator application written in Kotlin. Includes:
 - **Frontend:** Kotlin (Android UI)
 - **Backend (if applicable):** Firebase (for saving calculations)
 - **Tools:** Android Studio, Firebase (if needed)
+
+## 📁 Project Structure
+
+app/
+ ┣ ui/
+ ┣ auth/
+ ┣ calculator/
+ ┣ cgpa/
+ ┣ converter/
+ ┣ history/
+ ┗ utils/
+
 ## 💡 Why This App?
 
 - Beginner friendly  
