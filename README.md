@@ -51,6 +51,14 @@ A feature-rich calculator application written in Kotlin. Includes:
 2. Open the project in **Android Studio**
 3. Sync the Gradle files and install dependencies
 4. Run the app on an emulator or physical device
+## 👨‍🎓 Who Can Use This App?
+
+- School students  
+- College students  
+- Engineering students  
+- Teachers  
+- Anyone who needs calculator
+
 
 ## 📸 App Screenshots
 
